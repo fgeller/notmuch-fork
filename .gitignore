@@ -14,3 +14,5 @@ libnotmuch.so*
 .*.swp
 *.elc
 releases
+.*
+EXPECTED
